@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/shahid78600"><img src="https://api.daily.dev/devcards/d2ea71814498471e96df0371270fc605.png?r=wxt" width="400" alt="Shahid Khan's Dev Card"/></a>
 <!--
 **Shahidkhan0786/Shahidkhan0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
